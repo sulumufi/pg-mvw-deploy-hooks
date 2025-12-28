@@ -270,10 +270,6 @@ When modifying these functions:
 3. Check that indexes are recreated with the same definitions
 4. Test with both regular and materialized dependent views
 
-## License
-
-[Add your license here]
-
 ## See Also
 
 - [PostgreSQL Materialized Views Documentation](https://www.postgresql.org/docs/current/sql-creatematerializedview.html)
